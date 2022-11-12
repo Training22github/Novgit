@@ -1,0 +1,7 @@
+[INFO ] 2022-11-12 21:50:17.810 [main] DemoLog - Started Test
+[TRACE] 2022-11-12 21:50:26.523 [main] DemoLog - Tracking
+[TRACE] 2022-11-12 21:50:27.838 [main] DemoLog - Tracking
+[TRACE] 2022-11-12 21:50:27.860 [main] DemoLog - Tracking
+[ERROR] 2022-11-12 21:50:27.878 [main] DemoLog - Error message
+[TRACE] 2022-11-12 21:50:28.352 [main] DemoLog - Tracking
+[TRACE] 2022-11-12 21:50:28.353 [main] DemoLog - Tracking
